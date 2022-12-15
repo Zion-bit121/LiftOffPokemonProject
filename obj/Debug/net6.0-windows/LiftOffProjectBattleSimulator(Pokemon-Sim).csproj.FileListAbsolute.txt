@@ -4,7 +4,6 @@ C:\Users\LaunchCodeAdmin\source\repos\LiftOffProjectBattleSimulator(Pokemon-Sim)
 C:\Users\LaunchCodeAdmin\source\repos\LiftOffProjectBattleSimulator(Pokemon-Sim)\LiftOffProjectBattleSimulator(Pokemon-Sim)\bin\Debug\net6.0-windows\LiftOffProjectBattleSimulator(Pokemon-Sim).dll
 C:\Users\LaunchCodeAdmin\source\repos\LiftOffProjectBattleSimulator(Pokemon-Sim)\LiftOffProjectBattleSimulator(Pokemon-Sim)\bin\Debug\net6.0-windows\LiftOffProjectBattleSimulator(Pokemon-Sim).pdb
 C:\Users\LaunchCodeAdmin\source\repos\LiftOffProjectBattleSimulator(Pokemon-Sim)\LiftOffProjectBattleSimulator(Pokemon-Sim)\obj\Debug\net6.0-windows\LiftOffProjectBattleSimulator(Pokemon-Sim).csproj.AssemblyReference.cache
-C:\Users\LaunchCodeAdmin\source\repos\LiftOffProjectBattleSimulator(Pokemon-Sim)\LiftOffProjectBattleSimulator(Pokemon-Sim)\obj\Debug\net6.0-windows\LiftOffProjectBattleSimulator_Pokemon_Sim_.Form1.resources
 C:\Users\LaunchCodeAdmin\source\repos\LiftOffProjectBattleSimulator(Pokemon-Sim)\LiftOffProjectBattleSimulator(Pokemon-Sim)\obj\Debug\net6.0-windows\LiftOffProjectBattleSimulator_Pokemon_Sim_.Properties.Resources.resources
 C:\Users\LaunchCodeAdmin\source\repos\LiftOffProjectBattleSimulator(Pokemon-Sim)\LiftOffProjectBattleSimulator(Pokemon-Sim)\obj\Debug\net6.0-windows\LiftOffProjectBattleSimulator(Pokemon-Sim).csproj.GenerateResource.cache
 C:\Users\LaunchCodeAdmin\source\repos\LiftOffProjectBattleSimulator(Pokemon-Sim)\LiftOffProjectBattleSimulator(Pokemon-Sim)\obj\Debug\net6.0-windows\LiftOffProjectBattleSimulator(Pokemon-Sim).GeneratedMSBuildEditorConfig.editorconfig
@@ -18,3 +17,5 @@ C:\Users\LaunchCodeAdmin\source\repos\LiftOffProjectBattleSimulator(Pokemon-Sim)
 C:\Users\LaunchCodeAdmin\source\repos\LiftOffProjectBattleSimulator(Pokemon-Sim)\LiftOffProjectBattleSimulator(Pokemon-Sim)\obj\Debug\net6.0-windows\ref\LiftOffProjectBattleSimulator(Pokemon-Sim).dll
 C:\Users\LaunchCodeAdmin\source\repos\LiftOffProjectBattleSimulator(Pokemon-Sim)\LiftOffProjectBattleSimulator(Pokemon-Sim)\obj\Debug\net6.0-windows\LiftOffProjectBattleSimulator_Pokemon_Sim_.SelectForm1.resources
 C:\Users\LaunchCodeAdmin\source\repos\LiftOffProjectBattleSimulator(Pokemon-Sim)\LiftOffProjectBattleSimulator(Pokemon-Sim)\obj\Debug\net6.0-windows\LiftOffProjectBattleSimulator_Pokemon_Sim_.StartForm1.resources
+C:\Users\LaunchCodeAdmin\source\repos\LiftOffProjectBattleSimulator(Pokemon-Sim)\LiftOffProjectBattleSimulator(Pokemon-Sim)\obj\Debug\net6.0-windows\LiftOffProjectBattleSimulator_Pokemon_Sim_.BattleForm.resources
+C:\Users\LaunchCodeAdmin\source\repos\LiftOffProjectBattleSimulator(Pokemon-Sim)\LiftOffProjectBattleSimulator(Pokemon-Sim)\obj\Debug\net6.0-windows\LiftOffProjectBattleSimulator_Pokemon_Sim_.LoginForm1.resources

@@ -64,7 +64,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::LiftOffProjectBattleSimulator_Pokemon_Sim_.Properties.Resources.kanto_starters___pokemon_by_doubleu42_d9hufnd_pre;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(784, 461);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Name = "StartForm1";

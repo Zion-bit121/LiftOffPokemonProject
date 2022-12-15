@@ -74,9 +74,8 @@
             }
             else
             {
-                Form1 battle;
+                BattleForm battle = new(charSelected);
                 this.Hide();
-                battle = new(charSelected);
                 battle.Show();
             }
         }
