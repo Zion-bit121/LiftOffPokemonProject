@@ -214,7 +214,7 @@ namespace LiftOffProjectBattleSimulator_Pokemon_Sim_
 
             // Checks for battle's end
 
-            if (progressBar2.Value == 0)
+            if (progressBar1.Value == 0)
             {
                 textBox1.Text = $"{player.name} fainted.";
 
@@ -232,7 +232,7 @@ namespace LiftOffProjectBattleSimulator_Pokemon_Sim_
                 this.Hide();
                 start.Show();
             }
-            else if (progressBar1.Value == 0)
+            else if (progressBar2.Value == 0)
             {
                 textBox1.Text = $"{enemy.name} fainted.";
 
@@ -360,7 +360,7 @@ namespace LiftOffProjectBattleSimulator_Pokemon_Sim_
 
             // Checks for battle's end
 
-            if (progressBar2.Value == 0)
+            if (progressBar1.Value == 0)
             {
                 textBox1.Text = $"{player.name} fainted.";
 
@@ -378,7 +378,7 @@ namespace LiftOffProjectBattleSimulator_Pokemon_Sim_
                 this.Hide();
                 start.Show();
             }
-            else if (progressBar1.Value == 0)
+            else if (progressBar2.Value == 0)
             {
                 textBox1.Text = $"{enemy.name} fainted.";
 
@@ -462,7 +462,7 @@ namespace LiftOffProjectBattleSimulator_Pokemon_Sim_
 
             // Checks for battle's end
 
-            if (progressBar2.Value == 0)
+            if (progressBar1.Value == 0)
             {
                 textBox1.Text = $"{player.name} fainted.";
                                 
@@ -480,7 +480,7 @@ namespace LiftOffProjectBattleSimulator_Pokemon_Sim_
                 this.Hide();
                 start.Show();
             }
-            else if (progressBar1.Value == 0)
+            else if (progressBar2.Value == 0)
             {
                 textBox1.Text = $"{enemy.name} fainted.";
 

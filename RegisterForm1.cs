@@ -10,19 +10,14 @@ using System.Windows.Forms;
 
 namespace LiftOffProjectBattleSimulator_Pokemon_Sim_
 {
-    public partial class LoginForm1 : Form
+    public partial class RegisterForm1 : Form
     {
-        public LoginForm1()
+        public RegisterForm1()
         {
             InitializeComponent();
         }
 
-        private void label1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label2_Click(object sender, EventArgs e)
+        private void label3_Click(object sender, EventArgs e)
         {
 
         }

@@ -209,7 +209,7 @@
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.pictureBox1);
             this.Name = "BattleForm";
-            this.Text = "BattleForm";
+            this.Text = "Battle";
             this.Load += new System.EventHandler(this.BattleForm_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
